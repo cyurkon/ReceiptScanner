@@ -1,0 +1,11 @@
+# Environmental Variables
+.env
+
+# WebStorm
+.idea
+
+# Node.js Modules
+node_modules/
+
+# Receipt Uploads
+public/uploads
